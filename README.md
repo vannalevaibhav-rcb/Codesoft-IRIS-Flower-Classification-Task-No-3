@@ -18,7 +18,11 @@ It uses the well-known **Iris dataset**, which contains measurements of **sepal 
   - Sepal Width  
   - Petal Length  
   - Petal Width  
-- **Target**: Species of iris flower (Setosa, Versicolor, Virginica).  
+- **Target**: Species of iris flower (Setosa, Versicolor, Virginica).
+
+- #Author
+
+- [Vaibhaav Vannale](www.linkedin.com/in/vaibhav-vannale-2a051b28a)
 
 ---
 
